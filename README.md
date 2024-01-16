@@ -4,6 +4,6 @@ Me chamo klaiven e esse fork é para mostrar as diferenças na hora da utilizaç
 
 ## Futuro
 
-[x] Alteração de estilos
-[] Implementação de pagina do pokemon
-[] 
+- [x] Alteração de estilos
+- [] Implementação de pagina do pokemon
+- [] 
